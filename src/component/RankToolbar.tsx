@@ -38,7 +38,7 @@ export function RankTableToolbar (props: RankToolbarProps){
             fontFamily="'IBM Plex Sans KR', sans-serif"
             fontWeight='700'
         >
-            {dateString} 유튜브 인기 동영상
+            {dateString} 유튜브 인기 동영상 📈
         </Typography>
         {/* <SearchBar
             value={searched}
